@@ -180,8 +180,8 @@
 ```
 
 ## 超链接
-(github)[https://WEZARD.net]
+[github](https://WEZARD.net)
 
 ## 插入图片
-(世纪会晤)[https://picture.gptkong.com/20240612/17201cc2c5e3524e2c8e25a5eaf0345bf3.jpg]
+[世纪会晤](https://picture.gptkong.com/20240612/17201cc2c5e3524e2c8e25a5eaf0345bf3.jpg)
 
