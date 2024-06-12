@@ -148,20 +148,23 @@
     * 吉尔·瓦伦丁
 
 ### 有序列表(1.)
-1. 2013-2016年TGA年度最佳
-   1. The Witcher 3: Wild Hunt
-   2. Dragon Age: Inquisition
-   3. Grand Theft Auto V
-   4. Overwatch
-2. 2017-2020年TGA年度最佳 
-   1. The Legend of Zelda: Breath of the Wild
-   2. God of War
-   3. Sekiro: Shadow Die Twice
-   4. The Last of Us Part Ⅱ
-3. 2021-2023年TGA年度最佳
-   1. It Takes Two
-   2. ELDEN RING
-   3. Baldur's Gate 3
+1. The Game Awards (2012-2015)
+   1. The Walking Dead
+   2. The Witcher 3: Wild Hunt
+   3. Dragon Age: Inquisition
+   4. Grand Theft Auto V
+   
+2. The Game Awards (2016-2019) 
+   1. Overwatch
+   2. The Legend of Zelda: Breath of the Wild
+   3. God of War
+   4. Sekiro: Shadow Die Twice
+   
+3. The Game Awards (2020-2023)
+   1. The Last of Us Part Ⅱ
+   2. It Takes Two
+   3. ELDEN RING
+   4. Baldur's Gate 3
     
 ## 表格<br>
 ### 2024年度书单
