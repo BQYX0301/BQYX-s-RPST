@@ -148,15 +148,21 @@
     * 吉尔·瓦伦丁
 
 ### 有序列表(1.)
-1. 2013-2015年TGA年度最佳
-   1. 巫师三
-   2. 龙腾世纪：审判
-   3. GTA5
-2. 2016-2018年TGA年度最佳
-   1. 守望先锋
-   2. 塞尔达传说：旷野之息
-   3. 战神4
-
+1. 2013-2016年TGA年度最佳
+   1. The Witcher 3: Wild Hunt
+   2. Dragon Age: Inquisition
+   3. Grand Theft Auto V
+   4. Overwatch
+2. 2017-2020年TGA年度最佳 
+   1. The Legend of Zelda: Breath of the Wild
+   2. God of War
+   3. Sekiro: Shadow Die Twice
+   4. The Last of Us Part Ⅱ
+3. 2021-2023年TGA年度最佳
+   1. It Takes Two
+   2. ELDEN RING
+   3. Baldur's Gate 3
+    
 ## 表格<br>
 ### 2024年度书单
 名称|作者|国籍
