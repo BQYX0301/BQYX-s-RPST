@@ -20,7 +20,7 @@
 	在仓库中可以包含多个分支，分支才是代码文件的第一存储单位，
 	默认的仓库主分支为master/main
 	*不仅可以管理代码存储，便于多人协作开发
-
+[Branch分支](https://picture.gptkong.com/20240612/17298788b339f84da998281b654c727cb3.png)
 
 ## 仓库内容
 	Code，资源存储，代码资源，二进制，项目管理脚本，许可证等等
@@ -32,7 +32,7 @@
 ## Git软件，分布式版本控制系统
 仓库管理软件，使用git管理私人代码或企业代码
 
-
+[示例](https://picture.gptkong.com/20240612/173099f539bd5d4083aa9b18f7974a91e3.png)
 
 
 # 设备认证
@@ -68,6 +68,9 @@
 
 
 # 本地设备与云端仓库的交互逻辑
+
+[示例](https://picture.gptkong.com/20240612/1732d69c7dd06143a699c8689c36370e6d.png)
+
 ```bash
 	git add code.c  #添加内容
 	
@@ -180,7 +183,7 @@
 ```
 
 ## 超链接
-[github](https://WEZARD.net)
+[BZone-ZARD](https://WEZARD.net)
 
 ## 插入图片
 [世纪会晤](https://picture.gptkong.com/20240612/17201cc2c5e3524e2c8e25a5eaf0345bf3.jpg)
